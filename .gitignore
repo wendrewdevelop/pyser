@@ -294,4 +294,8 @@ pip-selfcheck.json
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 
+### Others ###
+javascript_files.txt
+css_files.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/python,virtualenv,venv,dotenv,django,flask
